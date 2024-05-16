@@ -1,16 +1,4 @@
 {
     "products": [
-      {
-        "name": "Televisor",
-        "price": "60",
-        "image": "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/origen-nombres-informatica-nunca-hubieras-imaginado_2.jpg",
-        "id": 7
-      },
-      {
-        "name": "Televisor",
-        "price": "40",
-        "image": "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/origen-nombres-informatica-nunca-hubieras-imaginado_2.jpg",
-        "id": 10
-      }
     ]
-  }
+}
